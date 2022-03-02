@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dayo
 - 👀 I’m interested in AI, Machine Learning, Deep Learning, Robotics technologies and IoTs 
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on machine lerning and IoTs
+- 💞️ I’m looking to collaborate on machine learning and IoTs
 - 📫 How to reach me on i.a.adebayo@rgu.ac.uk
 
 <!---

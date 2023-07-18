@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dayo
+- 👋 Hi, I’m Adedayo
 - 👀 I’m interested in AI, Machine Learning, Deep Learning, Robotics technologies and IoTs 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m a Data Enthusiast 
 - 💞️ I’m looking to collaborate on machine learning and IoTs
-- 📫 How to reach me on i.a.adebayo@rgu.ac.uk
+- 📫 How to reach me on a.adebayo9@rgu.ac.uk
 
 <!---
 dayobola/dayobola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
